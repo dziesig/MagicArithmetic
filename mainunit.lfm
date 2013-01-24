@@ -24,54 +24,59 @@ object Form1: TForm1
   end
   object Label1: TLabel
     Left = 16
-    Height = 73
+    Height = 60
     Top = 104
-    Width = 109
+    Width = 88
     Caption = '100'
-    Font.Height = -64
+    Font.Height = -53
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
     Visible = False
   end
   object Label2: TLabel
     Left = 144
-    Height = 73
+    Height = 60
     Top = 104
-    Width = 41
+    Width = 36
     Caption = 'X'
-    Font.Height = -64
+    Font.Height = -53
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
     Visible = False
   end
   object Label3: TLabel
     Left = 200
-    Height = 73
+    Height = 60
     Top = 104
-    Width = 109
+    Width = 88
     Caption = '100'
-    Font.Height = -64
+    Font.Height = -53
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
     Visible = False
   end
   object Label4: TLabel
     Left = 328
-    Height = 73
+    Height = 60
     Top = 100
-    Width = 37
+    Width = 32
     Caption = '='
-    Font.Height = -64
+    Font.Height = -53
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
     Visible = False
   end
   object Edit1: TEdit
     Left = 424
-    Height = 78
+    Height = 65
     Top = 104
     Width = 144
-    Font.Height = -64
+    Font.Height = -53
+    Font.Name = 'Arial'
     OnKeyPress = Edit1KeyPress
     ParentFont = False
     TabOrder = 1
@@ -128,11 +133,12 @@ object Form1: TForm1
   end
   object Negative: TLabel
     Left = 384
-    Height = 73
+    Height = 60
     Top = 100
-    Width = 20
+    Width = 19
     Caption = '-'
-    Font.Height = -64
+    Font.Height = -53
+    Font.Name = 'Arial'
     ParentColor = False
     ParentFont = False
     Visible = False
@@ -486,6 +492,7 @@ object Form1: TForm1
       Caption = '6'
       Font.Height = -21
       NumGlyphs = 0
+      OnClick = SpeedButton1Click
       ParentFont = False
     end
     object SpeedButton24: TSpeedButton

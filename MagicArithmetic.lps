@@ -22,6 +22,7 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="MainUnit"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="180"/>
@@ -81,69 +82,68 @@
         <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="1" Y="7"/>
+        <CursorPos X="1" Y="6"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit7>
       <Unit8>
-        <Filename Value="../TheMagicDispatcher/railroadsectionsunit1.pas"/>
-        <UnitName Value="railroadsectionsunit1"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="52"/>
-        <CursorPos X="1" Y="67"/>
-        <UsageCount Value="9"/>
-      </Unit8>
-      <Unit9>
-        <Filename Value="../TheMagicDispatcher/railroadtracksunit1.pas"/>
-        <UnitName Value="railroadtracksunit1"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="188"/>
-        <CursorPos X="30" Y="217"/>
-        <UsageCount Value="17"/>
-      </Unit9>
-      <Unit10>
-        <Filename Value="/usr/share/lazarus/1.0.4/lcl/extctrls.pp"/>
-        <UnitName Value="ExtCtrls"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="730"/>
-        <CursorPos X="3" Y="714"/>
-        <UsageCount Value="16"/>
-      </Unit10>
-      <Unit11>
-        <Filename Value="../MagicLibraries/objectfactory1.pas"/>
-        <UnitName Value="ObjectFactory1"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="65"/>
-        <CursorPos X="1" Y="90"/>
-        <UsageCount Value="11"/>
-      </Unit11>
-      <Unit12>
-        <Filename Value="../TheMagicDispatcher/.gitignore"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="1"/>
-        <CursorPos X="1" Y="5"/>
-        <UsageCount Value="10"/>
-        <DefaultSyntaxHighlighter Value="None"/>
-      </Unit12>
-      <Unit13>
-        <Filename Value="../MagicLibraries/.gitignore"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="1"/>
-        <CursorPos X="1" Y="3"/>
-        <UsageCount Value="10"/>
-        <DefaultSyntaxHighlighter Value="None"/>
-      </Unit13>
-      <Unit14>
         <Filename Value="README.txt"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="15" Y="8"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../TheMagicDispatcher/railroadsectionsunit1.pas"/>
+        <UnitName Value="railroadsectionsunit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="52"/>
+        <CursorPos X="1" Y="67"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../TheMagicDispatcher/railroadtracksunit1.pas"/>
+        <UnitName Value="railroadtracksunit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="188"/>
+        <CursorPos X="30" Y="217"/>
+        <UsageCount Value="17"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/share/lazarus/1.0.4/lcl/extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="730"/>
+        <CursorPos X="3" Y="714"/>
+        <UsageCount Value="16"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../MagicLibraries/objectfactory1.pas"/>
+        <UnitName Value="ObjectFactory1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="65"/>
+        <CursorPos X="1" Y="90"/>
+        <UsageCount Value="11"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../TheMagicDispatcher/.gitignore"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="5"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../MagicLibraries/.gitignore"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="3"/>
+        <UsageCount Value="10"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit14>
     </Units>
