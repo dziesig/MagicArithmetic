@@ -1,0 +1,7 @@
+*.o
+*.ppu
+*.lfm
+*.bak
+backup/*
+lib/*
+MagicArithmetic
