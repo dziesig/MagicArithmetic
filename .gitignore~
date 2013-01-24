@@ -1,7 +1,7 @@
 *.o
 *.ppu
-*.lfm
 *.bak
+*.lps
 backup/*
 lib/*
 MagicArithmetic

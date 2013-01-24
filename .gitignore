@@ -1,6 +1,8 @@
 *.o
 *.ppu
 *.bak
+*.lps
 backup/*
 lib/*
+.gitignore~
 MagicArithmetic
