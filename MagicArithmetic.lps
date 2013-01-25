@@ -3,16 +3,17 @@
   <ProjectSession>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="15">
+    <Units Count="17">
       <Unit0>
         <Filename Value="MagicArithmetic.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="MagicArithmetic"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
-        <CursorPos X="1" Y="1"/>
-        <UsageCount Value="41"/>
+        <CursorPos X="1" Y="20"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -22,12 +23,11 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="MainUnit"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="180"/>
-        <CursorPos X="27" Y="198"/>
-        <UsageCount Value="41"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="20"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
@@ -38,16 +38,18 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="1" Y="1"/>
-        <UsageCount Value="41"/>
+        <UsageCount Value="45"/>
       </Unit2>
       <Unit3>
         <Filename Value="mathproblem.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="MathProblem"/>
+        <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="241"/>
-        <CursorPos X="1" Y="247"/>
-        <UsageCount Value="41"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="20"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
       </Unit3>
       <Unit4>
         <Filename Value="../MagicLibraries/generics1.pas"/>
@@ -56,7 +58,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="133"/>
         <CursorPos X="1" Y="150"/>
-        <UsageCount Value="41"/>
+        <UsageCount Value="45"/>
       </Unit4>
       <Unit5>
         <Filename Value="../MagicLibraries/common1.pas"/>
@@ -65,7 +67,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="303"/>
         <CursorPos X="65" Y="332"/>
-        <UsageCount Value="27"/>
+        <UsageCount Value="31"/>
       </Unit5>
       <Unit6>
         <Filename Value="../MagicLibraries/textio1.pas"/>
@@ -74,27 +76,27 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="1" Y="1"/>
-        <UsageCount Value="27"/>
+        <UsageCount Value="31"/>
       </Unit6>
       <Unit7>
         <Filename Value=".gitignore"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="3"/>
+        <EditorIndex Value="4"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="1" Y="6"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit7>
       <Unit8>
         <Filename Value="README.txt"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="15" Y="8"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit8>
@@ -146,6 +148,25 @@
         <UsageCount Value="10"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit14>
+      <Unit15>
+        <Filename Value="mainunit.lfm"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="70"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../TheMagicDispatcher/magicdispatchermainform.pas"/>
+        <UnitName Value="magicdispatchermainform"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="80" Y="19"/>
+        <UsageCount Value="10"/>
+      </Unit16>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
